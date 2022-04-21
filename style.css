@@ -1,0 +1,138 @@
+body{
+  background-color:rgb(238, 236, 236);
+  color: black;
+  margin: 0%;
+  padding: 0%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.img{
+  width:8%;
+  margin-left: 46%;
+  margin-bottom: 20px;
+  margin-top: 60px;
+}
+#container{
+  width: 60%;
+  background-color:rgb(255, 255, 255);
+  margin-left: 20%;
+  border: 1px solid rgb(252, 249, 249);
+}
+#flex{
+  display: flex;
+  margin-top: 30px;
+}
+.flex{
+  flex: 1;
+  text-align: center;
+}
+#line{
+  height: 2px;
+  background-color: gray;
+  width: 90%;
+  margin-left: 5%;
+  margin-top: 10px;
+}
+#form{
+  width: 70%;
+  margin-left: 20%;
+  margin-top: 50px;
+}
+.forms{
+  margin-bottom: 29px;
+}
+.form{
+  width: 80%;
+  height: 40px;
+  background-color: white;
+  border: 1px solid rgb(139, 136, 136);
+  margin-top: 14px;
+  border-radius: 1px;
+}
+.label{
+  color: rgb(100, 97, 97);
+  font-weight: 600;
+}
+.btn{
+  width: 82%;
+  height: 42px;
+  background-color: rgb(31, 29, 29);
+  color: rgb(243, 230, 230);
+  border: none;
+  font-weight: 600;
+  border-radius: 1px;
+}
+.btn:hover{
+  background-color: rgb(90, 82, 82);
+}
+.forgot{
+  width: 40%;
+  margin-left: 30%;
+  color: rgb(100, 98, 98);
+  font-size: lar;
+}
+#fles{
+  display: flex;
+  
+}
+.input{
+  flex:1;
+}
+.ing{
+  width: 15px;
+}
+#logo{
+  display: flex;
+  width: 65%;
+  margin-top: 50px;
+  margin-left: 17%;
+
+}
+.logo{
+  border: 2px solid rgb(207, 203, 203);
+  margin:4px;
+  flex: 1;
+  text-align: center;
+  height: 40px;
+  padding-top: 15px;
+  background-color:white;
+}
+#logos{
+  display: flex;
+  width: 65%;
+  margin-left: 17%;
+  margin-bottom: 30px;
+}
+a{
+  color: rgb(87, 84, 84);
+  font-weight: 600;
+  text-decoration: none;
+}
+a:hover{
+  background-color: rgb(238, 240, 241);
+}
+#footer{
+  display: flex;
+  margin-top: 50px;
+  width: 20%;
+  margin-left:42% ;
+  margin-bottom: 20px;
+}
+.privacy{
+  border-right: 2px solid gray;
+  padding-right: 3px;
+  font-size:13px;
+  text-decoration: underline;
+}
+.terms{
+  padding-left: 3px;
+  font-size:13px;
+  text-decoration: underline;
+}
+.logo:hover{
+  background-color: rgb(241, 234, 234);
+}
+.bus{
+  width: 1px;
+  height: 40px;
+  background-color: rgb(201, 199, 199);
+}
